@@ -6,9 +6,16 @@ To create your AssemblyScript project, run this in project directory after your 
 
 To generate project scaffold run `npx asinit .`
 
-Run with `npm run asbuild`
+**For development:**
 
-Run in watch mode with `npm run asbuild:watch`
+* Run with `npm run asbuild`
+* Run in watch mode with `npm run asbuild:watch`
+* Run `node benchmark` to compare performance between `AssemblyScript` and `JavaScript`
+
+**Demo**
+
+* Run `npm run serve-demo`
+* open the `localhost` url in your browser
 
 [AssemblyScript wiki](https://github.com/AssemblyScript/assemblyscript/wiki)
 
