@@ -15,7 +15,8 @@
   "devDependencies": {
     "assemblyscript": "github:AssemblyScript/assemblyscript",
     "benchmark": "^2.1.4",
-    "onchange": "^6.1.0"
+    "onchange": "^6.1.0",
+    "static-server": "^2.2.1"
   },
   "dependencies": {
     "glob": "^7.1.6"
